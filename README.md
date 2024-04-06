@@ -1,0 +1,1 @@
+# A django app which does dna promoter classification. The app checks whether a person with the dna promoter sequence is infected with e coli bacteria.

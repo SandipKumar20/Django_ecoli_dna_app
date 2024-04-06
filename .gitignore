@@ -1,0 +1,4 @@
+venv
+.idea
+dna_coli/ecoli_encoder.pickle
+dna_coli/ecoli_net.pickle
